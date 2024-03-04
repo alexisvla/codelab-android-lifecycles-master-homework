@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="Step 1">
+        <State />
+      </entry>
+      <entry key="Step 2 - ViewModel">
+        <State />
+      </entry>
+      <entry key="Step 3 - LiveData">
+        <State />
+      </entry>
+      <entry key="Step 3 - LiveData solution">
+        <State />
+      </entry>
+      <entry key="Step 4 - Lifecycle provider">
+        <State />
+      </entry>
+      <entry key="Step 5 - Sharing VMs">
+        <State />
+      </entry>
+      <entry key="Step 5 - Sharing VMs solution">
+        <State />
+      </entry>
+      <entry key="Step 6 - Saved state">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
